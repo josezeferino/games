@@ -1,0 +1,106 @@
+Type,Technology,Name,ForkedFrom,LatestCommit,Watch,Star,Fork,Commits,Contributors
+Action,C++-C-Lua-Other,OpenTomb,https://github.com/opentomb/OpenTomb,09/16/2019,86,878,99,1.340,24
+Arcade,C++-C-CMake-Python-Shell-Batchfile,C-Dogs SDL,https://github.com/cxong/cdogs-sdl,09/22/2019,34,292,53,3.170,19
+Arcade,Python,Chaos Projectile,https://github.com/WinterLicht/Chaos-Projectile,01/21/2017,19,44,16,177,5
+Arcade,C++-C-Other,Clonepoint,https://github.com/rohit-n/Clonepoint,01/14/2019,6,46,3,72,1
+Arcade,GDScript,DynaDungeons,https://github.com/akien-mga/dynadungeons,01/05/2018,15,124,22,141,4
+Arcade,Lua,Duckmarines,https://github.com/SimonLarsen/duckmarines,05/10/2016,17,74,12,212,3
+Arcade,Java,Epic Inventor,https://github.com/BlkStormy/epic-inventor,11/26/2016,22,84,34,5,1
+Arcade,C++-C-CMake-ObjectiveC-Shell,Falling Time,https://github.com/cxong/FallingTime,11/01/2018,7,15,11,96,3
+Arcade,Java-Html-Css,Kroniax,https://github.com/AlexAUT/Kroniax,09/11/2015,2,11,3,124,1
+Arcade,Lua-Shell,Missile Command,https://github.com/chadpaulson/missile-command,11/12/2016,3,6,2,50,1
+Arcade,Python-NSIS-Other,Mystic Mine,https://github.com/dewitters/MysticMine,07/24/2016,10,55,14,53,8
+Arcade,C++-C-Lua-Python-Makefile-Shell-Other,OpenLieroX,https://github.com/albertz/openlierox,02/08/2019,15,153,42,8.496,11
+Arcade,C++-Shell-Other,OSGG,https://github.com/DusteDdk/Osgg,09/12/2016,3,5,1,29,1
+Arcade,C++-CMake-Html-Other,Savage Wheels,https://github.com/kenamick/savagewheels,10/29/2016,8,14,7,304,2
+Arcade,Python,Space Shooter,https://github.com/tasdikrahman/spaceShooter,11/15/2017,23,311,143,47,6
+Arcade,C++-C-Other,SDL-Ball,https://github.com/DusteDdk/SDL-Ball,08/25/2016,2,7,4,117,1
+Arcade,C++-C-Python-GLSL-Meson-Html-Other,Taisei,https://github.com/taisei-project/taisei,09/22/2019,33,244,34,2.656,14
+Arcade,C++-C-CMake-Python-Lua-ObjectiveC-Other,Teeworlds,https://github.com/teeworlds/teeworlds/,09/15/2019,89,1.272,429,4.547,87
+Arcade,Java,Wannabe Tempest,https://github.com/awlzac/wbt,03/08/2015,4,7,11,26,1
+Arcade,C++-CMake,Witch Blast,https://github.com/Cirrus-Minor/witchblast,12/08/2018,22,155,23,1.617,6
+FPS,C-C++-Shell-Makefile-ObjectiveC-NSIS-Other,AssaultCube,https://github.com/assaultcube/AC,05/20/2018,62,296,119,7.789,21
+FPS,Python-Makefile-Shell,Freedoom,https://github.com/freedoom/freedoom,09/24/2019,56,396,91,2.087,44
+FPS,C++-CMake-Shell-XSLT,GlPortal,https://github.com/GlPortal/glPortal,09/20/2019,32,250,83,2.059,23
+FPS,C-C++-ObjectiveC-Makefile-Html-Assenbly-Other,Ioquake3,https://github.com/ioquake/ioq3,08/23/2019,135,1.279,1.261,3.318,57
+FPS,C-C++-ObjectiveC-Makefile-HLSL-GLSL-Other,LWJake2,https://github.com/XProger/OpenLara,10/05/2019,113,2.176,174,1.047,17
+FPS,C-C++-CMake-GLSL-Assenbly-AngelScript-Other,openspades,https://github.com/yvt/openspades,10/03/2019,71,535,151,1.806,47
+FPS,C-C++-ObjectiveC-Shell-Assenbly-Perl,Smokin' Guns,https://github.com/smokin-guns/SmokinGuns,04/19/2014,9,31,13,1.421,24
+FPS,C-C++-ObjectiveC-Html-Makefile-Roff-Other,Turtle Arena,https://github.com/Turtle-Arena/turtle-arena-code,10/16/2018,6,19,1.261,4.361,39
+FPS,C-C++-CMake-Shell-Batchfile-PowerShell-Perl,Unvanquished,https://github.com/Unvanquished/Unvanquished,08/12/2019,61,476,107,10.266,67
+MMORPG,C-C++-Html-PHP-Makefile-Tex-Other,Open Meridian,https://github.com/OpenMeridian/Meridian59,01/12/2016,36,96,180,3.698,30
+MMORPG,C-C++-Html-Makefile-Tex-M4-Other,Meridian 59,https://github.com/Meridian59/Meridian59,04/25/2019,44,246,180,579,21
+MMORPG,Html-Java-JavaScript-TSQL-Shell-Python,Stendhal,https://github.com/arianne/stendhal,10/05/2019,26,122,89,30.900,16
+RPG,C-C++-ObjectiveC-Makefile-M4-Shell-Other,Angband,https://github.com/angband/angband,08/15/2019,68,673,230,8.397,51
+RPG,C-C++-CMake-Shell-Python-Roff-Other,Arx Fatalis,https://github.com/arx/ArxLibertatis,10/05/2019,55,473,75,18.404,28
+RPG,C-C++-CMake-Java-Python-Makefile-Other,Cataclysm:Dark Days Ahead,https://github.com/CleverRaven/Cataclysm-DDA,10/05/2019,282,3.469,1.978,73.632,951
+RPG,C-C++-ObjectiveC-ObjectiveC++-Html-Lua-Other,Cendric,https://github.com/tizian/Cendric2,12/29/2018,27,193,19,2.585,4
+RPG,C-C++-ObjectiveC-JavaScript-Lua-Python-Other,Dungeon Crawl Stone Soup,https://github.com/crawl/crawl,10/03/2019,96,1.106,463,58.457,258
+RPG,Python,Dungeon Monkey Eternal,https://github.com/jwvhewitt/dmeternal,12/08/2016,9,42,9,383,1
+RPG,C-C++-CMake-ObjectiveC-Python-Perl-Other,Egoboo,https://github.com/egoboo/egoboo,03/11/2018,10,69,18,4.080,7
+RPG,CMake-Python-Shell,Flare RPG,https://github.com/clintbellanger/flare-game,09/17/2018,4,13,198,6.662,61
+RPG,C++-CMake-Other,Freeablo,https://github.com/wheybags/freeablo,07/17/2019,164,1.903,177,1.335,25
+RPG,C-C++-C-ObjectiveC-Makefile-Perl-Yacc-Other,NetHack,https://github.com/NetHack/NetHack,10/06/2019,108,1.088,224,8.615,21
+RPG,C-C++-CMake-GLSL-Tex-Shell,OpenMW,https://github.com/OpenMW/openmw,10/04/2019,261,2.904,738,22.476,207
+RPG,Lua-Other,The Legend of Zelda: Mystery of Solarus DX,https://github.com/solarus-games/zsdx,04/07/2019,18,148,40,2.058,19
+RPG,C-C++-ObjectiveC-CMake-Lua-Rich Text Format,Valyria Tear,https://github.com/ValyriaTear/ValyriaTear,09/20/2019,27,154,56,3.456,29
+Platform,C++-PHP-GDScript,Captain Holetooth,https://github.com/hirnbix/captain-holetooth,11/16/2017,6,44,18,448,4
+Platform,C-C++-CMake-Other,Commander Genius,https://github.com/gerstrong/Commander-Genius,05/27/2018,17,118,27,5.264,16
+Platform,Html-Css-JavaScript,Elemental One,https://github.com/voithos/elemental-one,08/16/2015,7,29,20,49,1
+Platform,Lua,Escape of the cat,https://github.com/gl00my/catesc,11/01/2017,4,7,2,185,2
+Platform,Python-Perl-Ruby-Shell-Makefile-Inno Setup,Frogatto,https://github.com/frogatto/frogatto,10/06/2019,54,425,96,14.485,23
+Platform,C-C++-ObjectiveC-CMake-Makefile-Shell,Gish,https://github.com/blinry/gish,01/12/2017,21,258,48,176,12
+Platform,Python-Lua-Other,Journey to the Center of Hawkthorne,https://github.com/hawkthorne/hawkthorne-journey,10/10/2018,61,841,370,5.538,60
+Platform,Python,Mario-Level-1,https://github.com/justinmeister/Mario-Level-1,06/30/2016,102,1.617,507,151,3
+Platform,Html-Css-JavaScript-GLSL-Shell-C#,HFT Mario Party,https://github.com/amiruqdah/mario-party,10/31/2015,6,25,10,91,2
+Platform,C++,Sky Engine,https://github.com/ilenburg/game-engine,01/11/2017,3,5,1,4,1
+Platform,C-C++-Other,The Legend of Edgar,https://github.com/riksweeney/edgar,10/06/2019,11,62,17,1.022,4
+Platform,C-C++-CMake-Ruby-Makefile-Shell-Other,The Secret Chronicles of Dr. M.,https://github.com/Secretchronicles/TSC,08/08/2019,23,123,100,2.794,26
+Platform,C++-CMake-Python-Scheme-C#-Shell-Other,SuperTux,https://github.com/SuperTux/supertux,10/06/2019,75,822,194,10.846,79
+Puzzle/card/board,C-Makefile,2048-cli,https://github.com/Tiehuis/2048-cli,11/18/2018,10,146,46,112,10
+Puzzle/card/board,C-C++-Makefile,2048-in-terminal,https://github.com/alewmoose/2048-in-terminal,10/13/2019,3,68,14,93,1
+Puzzle/card/board,Html-C++-ObjectiveC-Makefile-Shell-NSIS-Other,Castles of Dr. Creep,https://github.com/segrax/DrCreep,06/12/2019,4,15,3,619,11
+Puzzle/card/board,JavaScript-C#-ASP,Dominion,https://github.com/paulbatum/Dominion,06/01/2011,7,49,17,220,4
+Puzzle/card/board,Java-Shell,EbbeFlut,https://github.com/karussell/ebbeflut,01/14/2017,1,2,2,5,2
+Puzzle/card/board,JavaScript-GDScript-GAP,Minilens,https://github.com/KOBUGE-Games/minilens,08/16/2018,28,100,33,418,10
+Puzzle/card/board,C-C++-M4-Makefile,nudoku,https://github.com/jubalh/nudoku,08/01/2019,8,146,31,159,10
+Puzzle/card/board,D,PuzzleDash,https://github.com/wozniakty/PuzzleDash,05/19/2014,2,10,3,29,3
+Puzzle/card/board,Java,tictactoe,https://github.com/cout-hello-world/tictactoe,06/19/2015,1,10,1,4,1
+Puzzle/card/board,C-C++-Makefile,Wizznic,https://github.com/DusteDdk/Wizznic,02/16/2016,7,22,13,308,4
+Puzzle/card/board,C-C++-Html-QMaek-QML-Other,PokerTH,https://github.com/pokerth/pokerth,01/21/2019,45,255,122,3.776,14
+Racing,C-C++-CMake-GLSL-ShaderLab-HLSL-Other,Stunt Rally,https://github.com/stuntrally/stuntrally,03/16/2019,36,239,74,5.618,9
+Racing,C-C++-CMake-CMake-Makefile-Shell-Roff-Other,SuperTuxKart,https://github.com/supertuxkart/stk-code,10/13/2019,331,2.8,886,21.458,108
+Programming,Java,CengBall,https://github.com/eckucukoglu/cengball,11/08/2015,3,15,2,8,1
+Strategy,C-C++-JavaScript-Html-Python-Lua-Other,0 A.D,https://github.com/0ad/0ad,10/13/2019,168,1.4,330,23.217,6
+Strategy,C-C++-ObjectiveC-JavaScript-Ruby-SourcePawn-Other,Caesaria,https://github.com/dalerank/caesaria-game,06/14/2016,33,171,35,4.813,32
+Strategy,C-C++-CMake-Python-GLSL-Shell,Colobot,https://github.com/colobot/colobot,02/23/2019,62,628,135,3.040,49
+Strategy,C-C++-CMake-Lua-Java-NSIS-Other,CorsixTH,https://github.com/CorsixTH/CorsixTH,10/04/2019,138,2.1,246,3.326,64
+Strategy,C-C++,Curse of War,https://github.com/a-nikolaev/curseofwar,06/11/2014,24,194,26,118,6
+Strategy,C-Python-Other,Harris,https://github.com/ec429/harris,04/13/2019,5,11,4,872,3
+Strategy,C-C++-ObjectiveC-Lua-Java-Pascal-Other,Hedgewars,https://github.com/hedgewars/hw,10/27/2019,29,296,77,15.135,63
+Strategy,C++-C#-Html-JavaScript-PHP-Pascal,KaM Remake,https://github.com/Kromster80/kam_remake,10/06/2019,29,228,42,7.697,19
+Strategy,C-C++-PHP-Makefile-Shell-TSQL-Other,KeeperRL,https://github.com/miki151/keeperrl,10/15/2019,37,509,69,4.099,13
+Strategy,JavaScript-Shell,Last Colony,https://github.com/adityaravishankar/last-colony,06/16/2013,10,42,27,5,1
+Strategy,C-C++-Html-Tcl-Python-Java-Other,Micropolis,https://github.com/SimHacker/micropolis,03/15/2015,56,494,110,888,1
+Strategy,C++-CMake-Makefile-Python-QML-GLSL-Other,Openage,https://github.com/SFTtech/openage,10/25/2019,431,9.1,887,3.252,138
+Strategy,C++-CMake-GLSL-HLSL-Roff-Shell-Other,OpenDungeons,https://github.com/OpenDungeons/OpenDungeons,03/04/2019,35,312,48,3.541,21
+Strategy,C++-C-Other,OpenFodder,https://github.com/OpenFodder/openfodder,10/18/2019,26,233,25,1.455,3
+Strategy,Lua-C#-Shell-Makefile-PowerShell-NSIS-Other,OpenRA,https://github.com/OpenRA/OpenRA,10/17/2019,377,6.8,1.8,2.3545,261
+Strategy,C-C++-ObjectiveC-Visual Basic-Squirrel-Other,OpenTTD,https://github.com/OpenTTD/OpenTTD,10/25/2019,130,20000,279,23.890,65
+Strategy,C-C++-GLSL-CMake-Makefile-M4-Other,OpenXcom,https://github.com/OpenXcom/OpenXcom,10/26/2019,116,1.100,316,8.085,128
+Strategy,C-Lua,Pax Britannica,https://github.com/henkboom/pax-britannica,03/14/2011,7,85,13,267,3
+Strategy,Ruby-Shell,Phone Case of the Monster,https://github.com/jwoertink/pcotm,03/15/2013,1,3,4,24,1
+Strategy,C-C++-Lua-Html-Python-GLSL-Other,Pioneer,https://github.com/pioneerspacesim/pioneer,10/22/2019,107,810,297,18.566,332
+Strategy,C++-ObjectiveC,Polly B Gone,https://github.com/mbostock/polly-b-gone,12/14/2012,9,51,10,6,1
+Strategy,C-C++-Java-CMake-XC-NSIS-Other,OpenRCT2,https://github.com/OpenRCT2/OpenRCT2,10/27/2019,241,7.500,841,17.355,283
+Strategy,C-C++-CMake-ObjectiveC-Shell-Perl,Race into Space,https://github.com/raceintospace/raceintospace,10/27/2019,16,82,32,638,14
+Strategy,C-C++-M4-Makefile-Perl-Assenbly-Other,Seven Kingdoms,https://github.com/the3dfxdude/7kaa,09/20/2019,28,130,45,1.783,23
+Strategy,Lua-Shell,Source of Tales,https://github.com/tales/sourceoftales,06/26/2018,19,58,20,805,9
+Strategy,GDScript-Other,Tanks of Freedom,https://github.com/w84death/Tanks-of-Freedom,07/29/2019,54,727,109,1.957,25
+Strategy,C++-CMake-Java-Lua-Java-Python-Emacs Lisp-Other,The Battle for Wesnoth,https://github.com/wesnoth/wesnoth,10/27/2019,154,2.700,555,75.480,203
+Strategy,C#-FLUX-Shell,Voxeliq,https://github.com/bonesoul/voxeliq,09/30/2014,36,137,40,455,1
+Strategy,C-C++-CMake-GLSL-Lua-NSIS-Other,Wargus,https://github.com/Wargus/wargus,10/17/2019,17,133,21,2.486,33
+Strategy,C-C++-CMake-JavaScript-PHP-M4-Other,Warzone 2100,https://github.com/Warzone2100/warzone2100,10/25/2019,114,10000,301,14.989,70
+Strategy,Lua,Wyrmsun,https://github.com/andrettin/wyrmsun,01/25/2019,16,148,21,4.336,8
+Strategy,Lua-Other,Zero-K,https://github.com/ZeroK-RTS/Zero-K,10/22/2019,29,294,111,15.648,63
+Others,C++-CMake-Html-Other,OpenNotrium,https://github.com/verhoevenv/OpenNotrium,07/28/2019,15,46,17,131,6
